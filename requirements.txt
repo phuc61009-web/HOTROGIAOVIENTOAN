@@ -1,3 +1,5 @@
 streamlit
+g4f
+Pillow
+pytesseract
 python-docx
-google-generativeai
