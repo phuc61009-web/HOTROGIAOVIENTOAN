@@ -3,3 +3,4 @@ g4f
 Pillow
 pytesseract
 python-docx
+PyMuPDF
